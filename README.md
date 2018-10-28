@@ -1,2 +1,2 @@
-# Kafka
-Confluence Kafka demo
+# Confluent Kafka
+Confluent Kafka demo
